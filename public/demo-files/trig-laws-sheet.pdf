@@ -1,0 +1,66 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 668 >>
+stream
+BT
+/F1 20 Tf
+50 760 Td
+(Trigonometry Laws ? Complete Sheet) Tj
+0 -30 Td
+/F1 11 Tf
+(DEMO FILE ? replace with the real document from the dashboard.) Tj
+0 -18 Td
+() Tj
+0 -18 Td
+(Standard values:) Tj
+0 -18 Td
+(  sin 30 = 1/2   sin 45 = 1/sqrt\(2\)   sin 60 = sqrt\(3\)/2) Tj
+0 -18 Td
+(  cos 30 = sqrt\(3\)/2  cos 45 = 1/sqrt\(2\)  cos 60 = 1/2) Tj
+0 -18 Td
+() Tj
+0 -18 Td
+(Basic identities:) Tj
+0 -18 Td
+(  sin^2 A + cos^2 A = 1) Tj
+0 -18 Td
+(  tan A = sin A / cos A) Tj
+0 -18 Td
+() Tj
+0 -18 Td
+(Solving right triangles:) Tj
+0 -18 Td
+(  Pythagorean theorem: a^2 + b^2 = c^2) Tj
+0 -18 Td
+() Tj
+0 -18 Td
+(Use this sheet during revision ? not during the exam!) Tj
+0 -18 Td
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000960 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1030
+%%EOF

@@ -1,0 +1,72 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 836 >>
+stream
+BT
+/F1 20 Tf
+50 760 Td
+(Complete Algebra Summary ? 1st Secondary) Tj
+0 -30 Td
+/F1 11 Tf
+(DEMO FILE ? replace with the real document from the dashboard.) Tj
+0 -18 Td
+() Tj
+0 -18 Td
+(Laws of exponents:) Tj
+0 -18 Td
+(  a^m x a^n = a^\(m+n\)      \(a^m\)^n = a^\(m*n\)      a^0 = 1) Tj
+0 -18 Td
+() Tj
+0 -18 Td
+(Solving linear equations:) Tj
+0 -18 Td
+(  Isolate the variable using inverse operations on both sides.) Tj
+0 -18 Td
+() Tj
+0 -18 Td
+(Slope of a line through \(x1,y1\), \(x2,y2\):) Tj
+0 -18 Td
+(  m = \(y2 - y1\) / \(x2 - x1\)) Tj
+0 -18 Td
+() Tj
+0 -18 Td
+(Trigonometric ratios \(right triangle\):) Tj
+0 -18 Td
+(  sin A = opposite / hypotenuse) Tj
+0 -18 Td
+(  cos A = adjacent / hypotenuse) Tj
+0 -18 Td
+(  tan A = opposite / adjacent) Tj
+0 -18 Td
+() Tj
+0 -18 Td
+(Practice questions with answers are provided in class.) Tj
+0 -18 Td
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001128 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1198
+%%EOF
